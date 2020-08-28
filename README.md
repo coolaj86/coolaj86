@@ -11,6 +11,8 @@ I'm AJ ONeal. <img src="https://git.coolaj86.com/img/favicon.png" alt="" width="
 - <img src="https://rustacean.net/favicon.png" alt="Ferris (Rust Mascot) favicon" width="16" /> Rust-curious
 - 📫 coolaj86@gmail.com
 
-I host my code with <img src="https://gitea.io/images/favicon.png" alt="" width="16" /> Gitea at https://git.coolaj86.com/coolaj86/
-
 🎓 Currently helping new developers get jobs: [Beyond Code Bootcamp](https://beyondcodebootcamp.com)
+
+### But... Where's the Code Gone?
+
+I host my code with <img src="https://gitea.io/images/favicon.png" alt="" width="16" /> Gitea at https://git.coolaj86.com/coolaj86/
