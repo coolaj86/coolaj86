@@ -8,7 +8,7 @@ Technophobic Technologist Extraordinairé
 
 (formerly @coolaj86)
 
-- Lover of Go <img src="https://golang.org/favicon.ico" alt="Golang favicon" width="16" /> Go
+- Lover of Go <img src="https://golang.org/favicon.ico" alt="Golang favicon" width="16" />
 - Contributor to <img src="https://nodejs.org/static/images/favicons/favicon.ico" alt="Node.js favicon" width="16" /> [Node.js core](https://github.com/nodejs/node/commits?author=solderjs)
 - <img src="https://rustacean.net/favicon.png" alt="Ferris (Rust Mascot) favicon" width="16" /> Rust-curious
 - 📫 coolaj86@gmail.com
