@@ -13,8 +13,3 @@ I host my code with <img src="https://gitea.io/images/favicon.png" alt="" width=
 - <img src="https://rustacean.net/favicon.png" alt="Ferris (Rust Mascot) favicon" width="16" /> Rust-curious
 - 📫 coolaj86@gmail.com
 - 🎓 Currently helping new developers get jobs: [Beyond Code Bootcamp](https://beyondcodebootcamp.com)
-
-
-    even with that there are many modern developer tools that simply won’t work well on Windows because Microsoft doesn’t yet support the features that are needed for them to work correctly.
-    Even running Chrome certain Web Apps running in Chrome can have issues.
-    don’t worry about it. It’s very easy to safely install Linux on Windows 10 and running Linux is great because, that’s what most of the smart devices and servers in the world run
