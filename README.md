@@ -1,8 +1,4 @@
-### Technophobic Technologist Extraordinairé (@coolaj86)
-
-<!--
-**solderjs/solderjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+### Technophobic Technologist Extraordinairé
 
 I'm AJ ONeal. <img src="https://git.coolaj86.com/img/favicon.png" alt="" width="16" />
 
