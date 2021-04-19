@@ -10,6 +10,9 @@ I'm AJ ONeal. <img src="https://git.coolaj86.com/img/favicon.png" alt="" width="
 
 🎓 Currently helping new developers get jobs: [Beyond Code Bootcamp](https://beyondcodebootcamp.com)
 
+- <img src="https://img2.pngio.com/canon-camera-png-download-500500-free-transparent-canon-eos-canon-eos-1100d-png-900_500.jpg" width="16" /> Shooting on Canon
+- <img src="https://www.kindpng.com/picc/m/13-130854_davinci-resolve-icon-davinci-resolve-logo-transparent-hd.png" width="16" /> Editing with DaVinci Resolve Studio
+
 ### But... Where's the Code Gone?
 
 I host my code with <img src="https://gitea.io/images/favicon.png" alt="" width="16" /> Gitea at https://git.coolaj86.com/coolaj86/
