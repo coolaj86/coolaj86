@@ -10,7 +10,7 @@ I'm AJ ONeal. <img src="https://git.coolaj86.com/img/favicon.png" alt="" width="
 
 🎓 Currently helping new developers get jobs: [Beyond Code Bootcamp](https://beyondcodebootcamp.com)
 
-- <img src="https://img2.pngio.com/canon-camera-png-download-500500-free-transparent-canon-eos-canon-eos-1100d-png-900_500.jpg" width="16" /> Shooting on Canon
+- 📷 Shooting on Canon
 - <img src="https://www.kindpng.com/picc/m/13-130854_davinci-resolve-icon-davinci-resolve-logo-transparent-hd.png" width="16" /> Editing with DaVinci Resolve Studio & <img src="https://www.telestream.net/screenflow/images/Switch-Icon.png" width="16" /> ScreenFlow
 
 ### But... Where's the Code Gone?
